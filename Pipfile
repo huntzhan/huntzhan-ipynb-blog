@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pip = "*"
 jupyter = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
 
 [dev-packages]
 
